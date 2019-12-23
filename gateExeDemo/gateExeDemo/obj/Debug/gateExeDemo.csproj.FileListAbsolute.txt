@@ -1,0 +1,9 @@
+D:\liujianhua\cloudSpoon\pcidata_sdk\gateExeDemo\gateExeDemo\bin\Debug\gateExeDemo.exe.config
+D:\liujianhua\cloudSpoon\pcidata_sdk\gateExeDemo\gateExeDemo\bin\Debug\gateExeDemo.exe
+D:\liujianhua\cloudSpoon\pcidata_sdk\gateExeDemo\gateExeDemo\bin\Debug\gateExeDemo.pdb
+D:\liujianhua\cloudSpoon\pcidata_sdk\gateExeDemo\gateExeDemo\obj\Debug\gateExeDemo.csprojResolveAssemblyReference.cache
+D:\liujianhua\cloudSpoon\pcidata_sdk\gateExeDemo\gateExeDemo\obj\Debug\gateExeDemo.Form1.resources
+D:\liujianhua\cloudSpoon\pcidata_sdk\gateExeDemo\gateExeDemo\obj\Debug\gateExeDemo.Properties.Resources.resources
+D:\liujianhua\cloudSpoon\pcidata_sdk\gateExeDemo\gateExeDemo\obj\Debug\gateExeDemo.csproj.GenerateResource.Cache
+D:\liujianhua\cloudSpoon\pcidata_sdk\gateExeDemo\gateExeDemo\obj\Debug\gateExeDemo.exe
+D:\liujianhua\cloudSpoon\pcidata_sdk\gateExeDemo\gateExeDemo\obj\Debug\gateExeDemo.pdb
