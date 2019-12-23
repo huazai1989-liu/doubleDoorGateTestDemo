@@ -4,10 +4,9 @@ using System.Xml;
 
 namespace nsGateXml
 {
-    
     public class gateXml
     {
-        int a = 3;
+        int a = 4;
         public static void test()
         {
             ////创建Xml文档。
