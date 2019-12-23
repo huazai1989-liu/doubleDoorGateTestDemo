@@ -16,3 +16,12 @@ D:\liujianhua\git_test\Allen\gateExeDemo\gateExeDemo\obj\Debug\gateExeDemo.cspro
 D:\liujianhua\git_test\Allen\gateExeDemo\gateExeDemo\obj\Debug\gateExeDemo.Form1.resources
 D:\liujianhua\git_test\Allen\gateExeDemo\gateExeDemo\obj\Debug\gateExeDemo.Properties.Resources.resources
 D:\liujianhua\git_test\Allen\gateExeDemo\gateExeDemo\obj\Debug\gateExeDemo.csproj.GenerateResource.Cache
+D:\liujianhua\git_test\Bill\gateExeDemo\gateExeDemo\bin\Debug\gateExeDemo.exe.config
+D:\liujianhua\git_test\Bill\gateExeDemo\gateExeDemo\obj\Debug\gateExeDemo.exe
+D:\liujianhua\git_test\Bill\gateExeDemo\gateExeDemo\obj\Debug\gateExeDemo.pdb
+D:\liujianhua\git_test\Bill\gateExeDemo\gateExeDemo\bin\Debug\gateExeDemo.exe
+D:\liujianhua\git_test\Bill\gateExeDemo\gateExeDemo\bin\Debug\gateExeDemo.pdb
+D:\liujianhua\git_test\Bill\gateExeDemo\gateExeDemo\obj\Debug\gateExeDemo.csprojResolveAssemblyReference.cache
+D:\liujianhua\git_test\Bill\gateExeDemo\gateExeDemo\obj\Debug\gateExeDemo.Form1.resources
+D:\liujianhua\git_test\Bill\gateExeDemo\gateExeDemo\obj\Debug\gateExeDemo.Properties.Resources.resources
+D:\liujianhua\git_test\Bill\gateExeDemo\gateExeDemo\obj\Debug\gateExeDemo.csproj.GenerateResource.Cache
