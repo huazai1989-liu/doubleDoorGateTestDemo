@@ -6,6 +6,7 @@ namespace nsGateXml
 {
     public class gateXml
     {
+        int a = 3;
         public static void test()
         {
             ////创建Xml文档。
