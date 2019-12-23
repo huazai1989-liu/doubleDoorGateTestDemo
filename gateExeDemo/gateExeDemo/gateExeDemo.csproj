@@ -46,11 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <Compile Include="bill_b.cs" />
-=======
-    <Compile Include="allen_a.cs" />
->>>>>>> Allen-dev
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

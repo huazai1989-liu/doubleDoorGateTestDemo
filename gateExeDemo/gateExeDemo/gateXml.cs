@@ -6,11 +6,6 @@ namespace nsGateXml
 {
     public class gateXml
     {
-<<<<<<< HEAD
-        int a = 4;
-=======
-        int a = 3;
->>>>>>> Allen-dev
         public static void test()
         {
             ////创建Xml文档。
